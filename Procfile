@@ -1,1 +1,1 @@
-web: python_SATISH.py
+python_SATISH.py
